@@ -1,0 +1,53 @@
+.col-md-11 {
+    padding-top: 50px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.card-img-fireshots {
+    margin-top: 80px;
+    margin-left: 20px;
+    border-radius: 20px;
+    max-width: 80%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-chipitos {
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 20px;
+    max-width: 80%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-maxi {
+    margin-top: 100px;
+    border-radius: 20px;
+    max-width: 85%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-clubpurp {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    max-width: 85%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-list {
+    margin-top: 20px;
+}
+
+#clubmargin {
+    margin-top: 50px;
+    margin-right: 10px;
+}

@@ -1,0 +1,83 @@
+.card{
+    margin-top: 10px;
+    padding-top:50px;
+}
+
+.card-text{
+    padding-right: 0px;
+    height: auto;
+    width: auto;
+    padding-top:50px;
+}
+
+.card-img-metro {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    padding-top:50px;
+}
+
+.card-img-bus {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-bikes {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-taxi {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-img-uber {
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    
+}
+.card-img-cruise {
+    border-radius: 0px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    
+}
+
+.card-title {
+    padding-top:50px;
+}
+#container {
+    vertical-align: middle;
+}
+
+.col-md-6 {
+    margin-top: 30px;
+}
+
+.col-md-5 {
+    margin-top: 30px;
+}
+
+.col-md-4 {
+    margin-top: 30px;
+}
+
+.col-md-3 {
+    margin-top: 30px;
+}
+
+
